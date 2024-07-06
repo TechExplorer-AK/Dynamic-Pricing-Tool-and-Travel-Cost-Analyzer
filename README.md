@@ -1,5 +1,5 @@
-# Dynamic-Pricing-Tool-and-Travel-Cost-Analyzer in Excel
-## Dynamic Pricing Tool and Travel Cost Analyzer Project
+# Dynamic-Pricing-Tool-and-Travel-Cost-Analyzer 
+## Dynamic Pricing Tool and Travel Cost Analyzer Calculator
 
 ### Project Summary: 
 
