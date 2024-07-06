@@ -4,7 +4,7 @@
 
 The Dynamic Pricing Tool and Travel Cost Analyzer in Excel is a specialized project designed to simplify travel cost estimation and budget planning. This advanced Excel tool enables users to input specific details—such as car type, hotel preferences including room types, trip dates, and the number of rooms and cabs required—to calculate precise pricing information. Whether used by individuals planning vacations or businesses providing quotes to customers, the tool ensures transparency and accuracy in travel expense management.
 
-### Purpose and Objectives:
+#### Purpose and Objectives:
 
 The main objective of the Dynamic Pricing Tool and Travel Cost Analyzer is to empower users with a straightforward method to estimate and manage travel expenses effectively. By offering detailed cost breakdowns for both transportation (cab services) and accommodation (room prices), the tool aids in informed decision-making and budgeting. It serves as a practical solution for travelers seeking clarity in their financial planning and businesses aiming to deliver accurate pricing information to clients.
 
